@@ -8,7 +8,7 @@ This dashboard was created in vROps 7.5 and show Log Insight Performance
 
 1. Please import this Views : Log Insight list of Servers.zip, Log Insight Server Details.zip , VRLI Sizing Guide.zip , VRLI Why is the storage space 97% utilized.zip
 
-2. Please import this Dashboard : Log Insight Performance.zip
+2. Import the dashboard at Dashboards —> Actions —> Manage Dashboards —> import Dashboards Log Insight Performance.zip
 
 ## Authors
 
