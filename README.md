@@ -3,6 +3,7 @@
 ### Prerequisites
 
 VMware vRealize Operation 7.X or 8.X
+Vsphere Vcenter Adapter Active and working properly
 
 This dashboard was created in vROps 7.5 and show Log Insight Performance
 
