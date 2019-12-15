@@ -13,5 +13,3 @@ This dashboard was created in vROps 7.5 and show Log Insight Performance
 ## Authors
 
 * **Eran Maor** - *Initial work* - [PurpleBooth](https://github.com/emaor23)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
